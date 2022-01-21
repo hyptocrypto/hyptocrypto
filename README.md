@@ -1,8 +1,8 @@
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=hyptocrypto)
- 
-</div>
+Stats.                     |  Streaks 
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=hyptocrypto)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=hyptocrypto)
+
+
 
 
 
