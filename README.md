@@ -1,3 +1,6 @@
+https://github-readme-stats.vercel.app/api?username=hyptocrypto
+
+
 <h1 align="center">Hi 👋, I'm Julian Baumgartner</h1>
 <h3 align="center">Full Stack Developer</h3>
 
