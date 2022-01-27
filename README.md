@@ -1,6 +1,6 @@
 Stats                      |  Streaks 
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=hyptocrypto)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=hyptocrypto)
+![](https://github-readme-stats.vercel.app/api?username=hyptocrypto&show_icons=true&count_private=true&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=hyptocrypto&show_icons=true&count_private=true&theme=tokyonight)
 
 
 
