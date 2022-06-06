@@ -4,10 +4,13 @@ Stats                      |  Streaks
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Julian Baumgartner</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
+
+- I’m currently working for [PWC](https://www.pwc.com).
+- I helped build and currently maintain [DayCareOwl](https://www.daycareowl.com)
+- I excel at building backend tech, but am well versed in across the whole modern application stack.
+
 <div align="center">
  
  ![](https://img.shields.io/badge/Python-C0C0C0?style=for-the-badge&logo=python&logoColor=blue)  
