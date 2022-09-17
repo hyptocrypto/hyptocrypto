@@ -9,7 +9,7 @@ Stats                      |  Streaks
 
 - I’m currently working for [PWC](https://www.pwc.com).
 - I helped build and currently maintain [DayCareOwl](https://www.daycareowl.com)
-- I excel at building backend tech, but am well versed in across the whole modern application stack.
+- I excel as a backend engineer, but am well versed across the enitre modern application stack.
 
 <div align="center">
  
