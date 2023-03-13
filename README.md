@@ -7,7 +7,7 @@ Stats                      |  Streaks
 <h1 align="center">Hi 👋, I'm Julian Baumgartner</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- I’m currently working for [PWC](https://www.pwc.com).
+- Currently working as a Data/Software Engineer at [PWC](https://www.pwc.com).
 - I helped build and currently maintain [DayCareOwl](https://www.daycareowl.com)
 - I excel as a backend engineer, but am well versed across the enitre modern application stack.
 
