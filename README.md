@@ -1,6 +1,6 @@
 Stats                      |  Streaks 
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=hyptocrypto&show_icons=true&count_private=true&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=hyptocrypto&show_icons=true&count_private=true&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=hyptocrypto&show_icons=true&count_private=true&theme=tokyonight)
 
 
 
