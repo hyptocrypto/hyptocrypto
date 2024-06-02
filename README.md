@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  Currently working as a Data/Software Engineer at <a href="https://www.pwc.com">PwC</a>.
+  Currently building things at <a href="https://www.spigot.com" target="_blank">Spigot</a>.
   <br>
   I excel as a backend engineer, but am well versed across the entire modern application stack.
 
