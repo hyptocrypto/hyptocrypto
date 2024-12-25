@@ -7,7 +7,7 @@
  
  ![](https://img.shields.io/badge/Python-C0C0C0?style=plastic&logo=python&logoColor=blue)
  ![](https://img.shields.io/badge/Golang-61DAFB?style=platic&logo=go&logoColor=black)
- ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+ ![](https://img.shields.io/badge/Typescript-F7DF1E?style=plastic&logo=typescript&logoColor=black)
  ![](https://img.shields.io/badge/Kubernetes-eceff6?style=plastic&logo=kubernetes&logoColor=177bf8)
  ![](https://img.shields.io/badge/Docker-2CA5E0?style=platic&logo=docker&logoColor=white)
  ![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
